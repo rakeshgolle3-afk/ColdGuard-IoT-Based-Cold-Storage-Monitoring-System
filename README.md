@@ -109,7 +109,7 @@ Through this project, I gained practical experience in:
   
 ## 👨‍💻 Author
 
-**Pavan Kumar Gotla**
+**Rakesh Golle**
 
-- **GitHub:** [Rakesh Golle](https://github.com/Pavan-Gotla)
+- **GitHub:** [Rakesh Golle](https://github.com/rakeshgolle3-afk)
 - **LinkedIn:** [Rakesh Golle](https://www.linkedin.com/in/rakesh-golle-56629029b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
