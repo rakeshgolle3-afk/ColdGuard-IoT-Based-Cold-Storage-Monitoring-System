@@ -111,5 +111,5 @@ Through this project, I gained practical experience in:
 
 **Pavan Kumar Gotla**
 
-- **GitHub:** [Pavan-Gotla](https://github.com/Pavan-Gotla)
-- **LinkedIn:** [Pavan Kumar Gotla](https://www.linkedin.com/in/pavan-gotla-074a9a280)
+- **GitHub:** [Rakesh Golle](https://github.com/Pavan-Gotla)
+- **LinkedIn:** [Rakesh Golle](https://www.linkedin.com/in/rakesh-golle-56629029b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
