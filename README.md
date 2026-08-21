@@ -19,7 +19,21 @@ ColdGuard is an IoT-based Cold Storage Monitoring System developed using the LPC
 
 ## 📷 Block Diagram
 
-![Block Diagram](images/Block%20Diagram.jpeg)
+![Block Diagram](images/Block_Diagram.jpeg)
+
+---
+
+## 🖼️ Project Images
+
+### 1. LCD Output
+
+![LCD Output](images/LCD_Output.jpeg)
+
+### 2. ThingSpeak IoT
+
+![ThingSpeak Dashboard 1](images/ThingSpeak_IoT_1.jpeg)
+
+![ThingSpeak Dashboard 2](images/ThingSpeak_IoT_2.jpeg)
 
 ---
 
@@ -70,18 +84,6 @@ ColdGuard is an IoT-based Cold Storage Monitoring System developed using the LPC
 
 ---
 
-## 📂 Project Structure
-
-```text
-ColdGuard-IoT-Cold-Storage-Monitoring/
-├── src/
-├── include/
-├── images/
-└── README.md
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Mobile application integration
@@ -106,10 +108,12 @@ Through this project, I gained practical experience in:
 - IoT cloud integration using ThingSpeak
 - Real-time monitoring and alert systems
 - Embedded system debugging and testing
-  
+
+---
+
 ## 👨‍💻 Author
 
 **Rakesh Golle**
 
 - **GitHub:** [Rakesh Golle](https://github.com/rakeshgolle3-afk)
-- **LinkedIn:** [Rakesh Golle](https://www.linkedin.com/in/rakesh-golle-56629029b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **LinkedIn:** [Rakesh Golle](https://www.linkedin.com/in/rakesh-golle-56629029)
