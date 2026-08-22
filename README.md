@@ -19,21 +19,55 @@ ColdGuard is an IoT-based Cold Storage Monitoring System developed using the LPC
 
 ## 📷 Block Diagram
 
-![Block Diagram](images/Block_Diagram.jpeg)
+![Block Diagram](images/Block%20Diagram.jpeg)
 
 ---
 
 ## 🖼️ Project Images
 
-### 1. LCD Output
+### 1. Circuit Block Diagram
 
-![LCD Output](images/LCD_Output.jpeg)
+![Circuit Block Diagram](images/circuit_block_diagram.png)
 
-### 2. ThingSpeak IoT
+### 2. Data Flow Summary
 
-![ThingSpeak Dashboard 1](images/ThingSpeak_IoT_1.jpeg)
+![Data Flow Summary](images/data_flow_summary.png)
 
-![ThingSpeak Dashboard 2](images/ThingSpeak_IoT_2.jpeg)
+### 3. Display
+
+![Display](images/display.png)
+
+### 4. Door Event Protocol
+
+![Door Event Protocol](images/door_event_protocol.png)
+
+### 5. Hardware Board
+
+![Hardware Board](images/hardware_board.jpeg)
+
+### 6. LCD Display States
+
+![LCD Display States](images/lcd_display_states.png)
+
+### 7. Main Loop State Machine
+
+![Main Loop State Machine](images/main_loop_state_machine.png)
+
+### 8. Menu Password System
+
+![Menu Password System](images/menu_password_system.png)
+
+### 9. Software Architecture
+
+![Software Architecture](images/software_architecture.png)
+
+### 10. System Clock Configuration
+
+![System Clock Configuration](images/system_clock_configuration.png)
+
+### 11. ThingSpeak Dashboard
+
+![ThingSpeak Dashboard](images/thingspeak_dashboard.png)
 
 ---
 
@@ -84,16 +118,6 @@ ColdGuard is an IoT-based Cold Storage Monitoring System developed using the LPC
 
 ---
 
-## 🚀 Future Improvements
-
-- Mobile application integration
-- Email and SMS notifications
-- Firebase cloud support
-- AI-based anomaly detection
-- Support for multiple cold storage units
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -108,6 +132,30 @@ Through this project, I gained practical experience in:
 - IoT cloud integration using ThingSpeak
 - Real-time monitoring and alert systems
 - Embedded system debugging and testing
+
+---
+
+## 💻 Source Code
+
+The complete Embedded C source code is available in the project repository.
+
+### Main Modules
+
+- `main.c`
+- `config.h`
+- `types.h`
+- `delay.c / delay.h`
+- `lcd.c / lcd.h`
+- `keypad.c / keypad.h`
+- `dht11.c / dht11.h`
+- `uart.c / uart.h`
+- `esp01.c / esp01.h`
+- `eeprom.c / eeprom.h`
+- `buzzer.c / buzzer.h`
+- `switch.c / switch.h`
+- `menu.c / menu.h`
+- `password.c / password.h`
+- `rtc.c / rtc.h`
 
 ---
 
